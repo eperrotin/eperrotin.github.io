@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "AIST, Tokyo"
-title                    : "eperrotin / Site under construction"
+title                    : ""
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Elise Perrotin"
+description              : &description ""
 url                      : https://eperrotin.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "eperrotin"
+  name             : "Elise Perrotin"
   pronouns         : "she/her" # example: "she/her"  
   bio              : "Postdoc"
   location         : "Tokyo, Japan"
