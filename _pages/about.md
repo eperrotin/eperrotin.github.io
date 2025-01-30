@@ -1,16 +1,16 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+## About me
 I am a postdoc researcher at the Japan Institute of Advanced Industrial Science and Technology (AIST) in Tokyo, Japan. Before coming to Tokyo I did a first postdoc at the CRIL lab in Lens, France for two years. I completed my PhD in October 2021 after three years in the IRIT lab in Toulouse, France under the supervision of Andreas Herzig and Emiliano Lorini. Before that, I was a "normalienne" student of the Ecole Normale Supérieure de Lyon, and obtained my master's degree with the LMFI (Logique Mathématique et Fondements de l'Informatique, Mathematical Logic and Foundations of Computer Science) program at Paris Diderot University (now Paris Cité University).
 
-Research interests
-======
+## Research interests
 
 I am interested in logical representations of theory of mind, and in particular knowledge, belief, and their dynamics. Within this, I work on elaborating lightweight frameworks in an attempt to bridge the gap between computationally complex philosophical and cognitive representations on the one hand, and practical application perspectives on the other hand, with a focus on epistemic planning. I am also interested in the dynamic interplay between trust and belief in the context of belief revision.
 
@@ -27,13 +27,12 @@ I am interested in logical representations of theory of mind, and in particular 
 * Belief representation
 
 
-CV
-======
+## CV
+
 See my CV in [French](https://eperrotin.github.io/files/CVfr.pdf) or [English](https://eperrotin.github.io/files/CVen.pdf).
 
 
-My papers, grouped by theme
-======
+## My papers, grouped by theme
 
 **EL-O**
 
