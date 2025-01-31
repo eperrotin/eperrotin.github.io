@@ -14,8 +14,7 @@ name                     : &name "Elise Perrotin"
 description              : &description "Academic website of Elise Perrotin."
 url                      : https://eperrotin.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
-keywords : elise perrotin
+repository               : "eperrotin/eperrotin.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -37,7 +36,7 @@ author:
   orcid            : "https://orcid.org/0000-0003-4188-3789"
   
   # Repositories and software development
-  # github           : "academicpages"
+  # github           : # "eperrotin"
   
   # Social media
   # instagram        : # Username
@@ -261,6 +260,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
+  - jekyll-seo-tag
 
 # Mimic GitHub Pages with --safe
 whitelist:
