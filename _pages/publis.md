@@ -7,7 +7,7 @@ title: "Publications"
 
 **EL-O**
 
-On the lightweight epistemic logic EL-O, see [the original _Artificial Intelligence_ paper](https://hal.science/hal-03147798v1/file/aij19_round3_v11.pdf) laying the basics of the logic and of epistemic planning with EL-O, stating in particular that EL-O planning can be polynomially translated into classical planning. For further developments, see [this KR 2020 paper](https://hal.science/hal-03015803/document) on parallel planning in EL-O, [this KR 2021](https://ut3-toulouseinp.hal.science/hal-03450078/document) paper for an extension to "knowing what", and [this paper](https://link.springer.com/chapter/10.1007/978-3-031-56595-3_11) on integrating the induction principle in EL-O.
+On the lightweight epistemic logic EL-O, see [the original _Artificial Intelligence_ paper](https://hal.science/hal-03147798v1/file/aij19_round3_v11.pdf) laying the basics of the logic and of epistemic planning with EL-O, stating in particular that EL-O planning can be polynomially translated into classical planning. For further developments, see [this KR 2020 paper](https://hal.science/hal-03015803/document) on parallel planning in EL-O, [this KR 2021 paper](https://ut3-toulouseinp.hal.science/hal-03450078/document) for an extension to "knowing what", and [this paper](https://link.springer.com/chapter/10.1007/978-3-031-56595-3_11) on integrating the induction principle in EL-O.
 Coming soon in AAAI 2025: _A Logical Analysis of Hanabi_, in which I extend EL-O common knowledge to any groups of agents, use that to give a complete formalization of the evolution of knowledge in the card game Hanabi, and finally give a small, finite fragment of that logic that is enough to fully capture the game.
 
 **Other lightweight modal logics**
@@ -16,7 +16,7 @@ In [this IJCAI 2022 paper](https://hal.science/hal-03873341/document) and [this 
 
 **LDA**
 
-The Logic of Doxastic Attitudes is a framework developed by Emiliano Lorini as a hybrid between semantic and syntactic representations of knowledge and beliefs, based on the concept of belief bases as well as the notions of explicit and implicit beliefs. As for my work on this, see [this ECAI 2020 paper](https://hal.science/hal-03008589v1/file/1266_paper.pdf) on capturing distributed belief in the framework and [this KR 2022 paper](https://hal.science/hal-03873252v1/file/kr2022-0024-lorini-et-al.pdf) on situating the private belief base updates of LDA w.r.t. standard DEL actions. Coming soon in AAAI 2025: _A Computationally Grounded Framework for Cognitive Attitudes_, in which we show how to capture notions such as attraction, repulsion and motivation in the framework; see the extended version [here](https://arxiv.org/pdf/2412.14073?).
+The Logic of Doxastic Attitudes is a framework developed by Emiliano Lorini as a hybrid between semantic and syntactic representations of knowledge and beliefs, based on the concept of belief bases as well as the notions of explicit and implicit beliefs. As for my work on this, see [this ECAI 2020 paper](https://hal.science/hal-03008589v1/file/1266_paper.pdf) on capturing distributed belief in the framework and [this KR 2022 paper](https://hal.science/hal-03873252v1/file/kr2022-0024-lorini-et-al.pdf) on situating the private belief base updates of LDA w.r.t. standard DEL actions. Coming soon in AAAI 2025: _A Computationally Grounded Framework for Cognitive Attitudes_ with Tiago de Lima, Emiliano Lorini and François Schwarzentruber, in which we show how to capture notions such as attraction, repulsion and motivation in the framework; see the extended version [here](https://arxiv.org/pdf/2412.14073?).
 
 **Belief Revision**
 
@@ -27,7 +27,7 @@ For my work in CRIL, see [this JELIA 2023 paper](https://hal.science/hal-0449454
 In [this AiML 2020 paper](http://www.aiml.net/volumes/volume13/Herzig-Perrotin.pdf) we propose an alternative axiomatization of common knowledge, which arguably improves in intuitive clarity over previously existing proposals and can be summed up as: "if it is common knowledge that everybody knows whether φ then it is common knowledge whether φ".
 
 
-##List of publications
+## List of publications
 
 **Ph.D thesis** 
 Perrotin, E. (2021). Lightweight approaches to reasoning about knowledge and belief. Doctoral dissertation, Université Paul Sabatier-Toulouse III.
