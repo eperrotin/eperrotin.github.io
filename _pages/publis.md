@@ -30,14 +30,14 @@ In [this AiML 2020 paper](http://www.aiml.net/volumes/volume13/Herzig-Perrotin.p
 ## List of publications
 
 **Ph.D thesis** 
-Perrotin, E. (2021). Lightweight approaches to reasoning about knowledge and belief. Doctoral dissertation, Université Paul Sabatier-Toulouse III.
+Perrotin, E. (2021). [Lightweight approaches to reasoning about knowledge and belief](https://theses.hal.science/tel-03683642/file/2021TOU30265a.pdf). Doctoral dissertation, Université Paul Sabatier-Toulouse III.
 
 
 **Journal publications** 
 
 * Cooper, M. C., Herzig, A., Maffre, F., Maris, F., Perrotin, E., & Régnier, P. (2021). [A lightweight epistemic logic and its application to planning](https://hal.science/hal-03147798v1/file/aij19_round3_v11.pdf). _Artificial Intelligence_ (p.103437).
 * Herzig, A., & Perrotin, E. (2021). [True Belief and Mere Belief About a Proposition and the Classification of Epistemic-Doxastic Situations](https://hal.science/hal-03011708/document). _Filosofiska Notiser_, Årgång 8, Nr 1 (pp.103–117).
-* Perrotin, E., & Vel´azquez-Quesada, F. R. (2020). [A Semantic Approach to Non-prioritized Belief Revision](https://www.researchgate.net/profile/Fernando-Velazquez-Quesada/publication/353333636_A_semantic_approach_to_non-prioritized_belief_revision/links/60f565affb568a7098bda914/A-semantic-approach-to-non-prioritized-belief-revision.pdf). _Logic Journal of the IGPL_ (pp.644-671).
+* Perrotin, E., & Velázquez-Quesada, F. R. (2020). [A Semantic Approach to Non-prioritized Belief Revision](https://www.researchgate.net/profile/Fernando-Velazquez-Quesada/publication/353333636_A_semantic_approach_to_non-prioritized_belief_revision/links/60f565affb568a7098bda914/A-semantic-approach-to-non-prioritized-belief-revision.pdf). _Logic Journal of the IGPL_ (pp.644-671).
 
 **Books publications**
 
