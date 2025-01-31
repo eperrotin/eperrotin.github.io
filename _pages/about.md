@@ -31,7 +31,7 @@ I am interested in logical representations of theory of mind, and in particular 
 
 See my CV in [French](https://eperrotin.github.io/files/CVfr.pdf) or [English](https://eperrotin.github.io/files/CVen.pdf).
 
-
+<!---
 ## My papers, grouped by theme
 
 **EL-O**
@@ -54,3 +54,4 @@ For my work in CRIL, see [this JELIA 2023 paper](https://hal.science/hal-0449454
 **Miscellaneous**
 
 In [this AiML 2020 paper](http://www.aiml.net/volumes/volume13/Herzig-Perrotin.pdf) we propose an alternative axiomatization of common knowledge, which arguably improves in intuitive clarity over previously existing proposals and can be summed up as: "if it is common knowledge that everybody knows whether φ then it is common knowledge whether φ".
+--->
