@@ -23,7 +23,7 @@ google_site_verification: google78a3d47e986fc4fd
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "me.jpg"
   name             : "Elise Perrotin"
   pronouns         : "she/her" # example: "she/her"  
   bio              : "Postdoc"
