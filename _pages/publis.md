@@ -7,8 +7,7 @@ title: "Publications"
 
 **EL-O**
 
-On the lightweight epistemic logic EL-O, see [the original _Artificial Intelligence_ paper](https://hal.science/hal-03147798v1/file/aij19_round3_v11.pdf) laying the basics of the logic and of epistemic planning with EL-O, stating in particular that EL-O planning can be polynomially translated into classical planning. For further developments, see [this KR 2020 paper](https://hal.science/hal-03015803/document) on parallel planning in EL-O, [this KR 2021 paper](https://ut3-toulouseinp.hal.science/hal-03450078/document) for an extension to "knowing what", and [this paper](https://link.springer.com/chapter/10.1007/978-3-031-56595-3_11) on integrating the induction principle for common knowledge in EL-O.
-Coming soon in AAAI 2025: _A Logical Analysis of Hanabi_, in which I extend EL-O common knowledge to any groups of agents, use that to give a complete formalization of the evolution of knowledge in the card game Hanabi, and finally give a small, finite fragment of that logic that is enough to fully capture the game.
+On the lightweight epistemic logic EL-O, see [the original _Artificial Intelligence_ paper](https://hal.science/hal-03147798v1/file/aij19_round3_v11.pdf) laying the basics of the logic and of epistemic planning with EL-O, stating in particular that EL-O planning can be polynomially translated into classical planning. For further developments, see [this KR 2020 paper](https://hal.science/hal-03015803/document) on parallel planning in EL-O, [this KR 2021 paper](https://ut3-toulouseinp.hal.science/hal-03450078/document) for an extension to "knowing what", and [this paper](https://link.springer.com/chapter/10.1007/978-3-031-56595-3_11) on integrating the induction principle for common knowledge in EL-O. In [this AAAI 2025 paper](https://ojs.aaai.org/index.php/AAAI/article/view/33658), in which I extend EL-O common knowledge to any groups of agents, use that to give a complete formalization of the evolution of knowledge in the card game Hanabi, and finally give a small, finite fragment of that logic that is enough to fully capture the game. The generalization of EL-O is updated and its relation to standard logics of knowledge is clarified in a recent paper in the Festschrift in Honor of Andreas Herzig (not yet available online).
 
 **Other lightweight modal logics**
 
@@ -16,7 +15,7 @@ In [this IJCAI 2022 paper](https://hal.science/hal-03873341/document) and [this 
 
 **LDA**
 
-The Logic of Doxastic Attitudes is a framework developed by Emiliano Lorini as a hybrid between semantic and syntactic representations of knowledge and beliefs, based on the concept of belief bases as well as the notions of explicit and implicit beliefs. As for my work on this, see [this ECAI 2020 paper](https://hal.science/hal-03008589v1/file/1266_paper.pdf) on capturing distributed belief in the framework and [this KR 2022 paper](https://hal.science/hal-03873252v1/file/kr2022-0024-lorini-et-al.pdf) on situating the private belief base updates of LDA w.r.t. standard DEL actions. Coming soon in AAAI 2025: _A Computationally Grounded Framework for Cognitive Attitudes_ with Tiago de Lima, Emiliano Lorini and François Schwarzentruber, in which we show how to capture notions such as attraction, repulsion and motivation in the framework; see the extended version [here](https://arxiv.org/pdf/2412.14073?).
+The Logic of Doxastic Attitudes is a framework developed by Emiliano Lorini as a hybrid between semantic and syntactic representations of knowledge and beliefs, based on the concept of belief bases as well as the notions of explicit and implicit beliefs. As for my work on this, see [this ECAI 2020 paper](https://hal.science/hal-03008589v1/file/1266_paper.pdf) on capturing distributed belief in the framework and [this KR 2022 paper](https://hal.science/hal-03873252v1/file/kr2022-0024-lorini-et-al.pdf) on situating the private belief base updates of LDA w.r.t. standard DEL actions. In [this other AAAI 2025 paper](https://ojs.aaai.org/index.php/AAAI/article/view/33629) we show how to capture notions such as attraction, repulsion and motivation in the framework; see the extended version [here](https://arxiv.org/pdf/2412.14073?).
 
 **Belief Revision**
 
@@ -41,14 +40,15 @@ Perrotin, E. (2021). [Lightweight approaches to reasoning about knowledge and be
 
 **Books publications**
 
+* Perrotin, E. (2025). On Logics of S5 Common Knowledge. In: Aucher, G., Lang, J., de Lima, T., Lorini, E. (eds) _Festschrift for Andreas Herzig on the Occasion of his 65th Birthday (Essays in Honor of Andi)_ (Tributes, vol. 55, pp.181-196). College Publications.
 * Herzig, A., Lorini, E., & Perrotin, E. (2024). [Logic of Action from the Perspective of Knowledge Representation](https://link.springer.com/chapter/10.1007/978-3-031-44490-6_14). In: Malinowski, J., Palczewski, R. (eds) _Janusz Czelakowski on Logical Consequence_ (_Outstanding Contributions to Logic_, vol. 27). Springer, Cham.
 * Herzig, A. & Perrotin, E. (2024). [Efficient reasoning about knowledge and common knowledge](https://link.springer.com/chapter/10.1007/978-3-031-56595-3_11). In: Coniglio, M.E., Kubyshkina, E., Zaitsev, D. (eds) _Many-Valued and Modal Logics (Essays in honour of Yu. V. Ivlev)_ (Synthese Library, vol. 485). Springer, Cham.
 
 
 **Conferences**
  
-* Perrotin, E. (2025). A Logical Analysis of Hanabi. _Proceedings of the Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI 2025)_ (accepted).
-* de Lima, T., Lorini, E., Perrotin, E. & Schwarzentruber, F. (2025). A Computationally Grounded Framework for Cognitive Attitudes. _Proceedings of the Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI 2025)_ (accepted).
+* Perrotin, E. (2025). A Logical Analysis of Hanabi. _Proceedings of the Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI 2025)_ (Vol. 39, No. 14, pp. 15118-15125).
+* de Lima, T., Lorini, E., Perrotin, E. & Schwarzentruber, F. (2025). A Computationally Grounded Framework for Cognitive Attitudes. _Proceedings of the Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI 2025)_ (Vol. 39, No. 14, pp. 14858-14866).
 * Perrotin, E. & Schwind, N. (2024). [Relative Change-Reluctance in Iterated Revision](https://link.springer.com/chapter/10.1007/978-981-96-0128-8_23). _Pacific Rim International Conference on Artificial Intelligence (PRICAI 2024)_ (pp. 264-276).
 * Konieczny, S., Perrotin, E., & Pino Pérez, R. (2024). [Belief Reconfiguration without Oracle](https://link.springer.com/chapter/10.1007/978-3-031-77367-9_14). _International Conference on Principles and Practice of Multi-Agent Systems (PRIMA 2024)_ (pp. 172-188).
 * Engesser, T., Herzig, A. & Perrotin, E. (2024). [Towards Epistemic-Doxastic Planning with Observation and Revision](https://ojs.aaai.org/index.php/AAAI/article/view/28919). _Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI 2024)_ (Vol. 38, No. 9, pp. 10501-10508).
