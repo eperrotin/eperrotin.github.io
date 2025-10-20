@@ -31,6 +31,10 @@ I am interested in logical representations of theory of mind, and in particular 
 
 See my CV in [French](https://eperrotin.github.io/files/CVfr.pdf) or [English](https://eperrotin.github.io/files/CVen.pdf).
 
+## Teaching
+
+See my slides on an [Introduction to Logic & AI](https://eperrotin.github.io/files/logic-AI-handout.pdf).
+
 <!---
 ## My papers, grouped by theme
 
